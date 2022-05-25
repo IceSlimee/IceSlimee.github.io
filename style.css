@@ -3,7 +3,7 @@ body {
     width: 100%;
     min-height: 100%;
     margin: 0;
-    background: #000000 url(aw.gif);
+    background: #000000;
 	
     background-size: cover;
     display: flex;
@@ -49,12 +49,13 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+	
 }
 .info {
     min-width: 300px;
     width: 300px;
     display: flex;
-    background: none;
+    background: none url(aw.gif);
     padding: 35px;
     color: var(--text-color);
     border-radius: 16px; 
