@@ -55,7 +55,7 @@ body {
     min-width: 300px;
     width: 300px;
     display: flex;
-    background: none url(aw.gif);
+    background: none;
     padding: 35px;
     color: var(--text-color);
     border-radius: 16px; 
