@@ -4,7 +4,8 @@ body {
     min-height: 100%;
     margin: 0;
     background: #000000 url(aw.gif);
-    background-size: cover;
+	
+    background-size: 100%;
     display: flex;
     font-family: 'Product Sans';
     font: 'Product Sans';
